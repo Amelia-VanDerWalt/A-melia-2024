@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @A-melia-2024
 - 👀 I’m interested in reading and programming
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m not currently looking to collaborate
 - 📫 How to reach me ameliavanderwalt47@gmail.com
-- 😄 Pronouns: If you look at me and start talking I'll now you are talking to me
+- 😄 Pronouns: If you look at me and start talking I'll assumes you are talking to me
 - ⚡ Fun fact:  90% of the world's currency exists only in digital form.
 
 <!---
