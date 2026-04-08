@@ -1,18 +1,18 @@
-👋 Hi, I’m Amelia van der Walt
+👋 Hi, I’m Amelia van der Walt<br/>
 
-🎓 Software Engineering Student at Belgium Campus iTversity 
-🌱 Passionate about Software Development, Cyber Security and Web Development 
-💼 Seeking internship/graduate opportunities in software development 
+🎓 Software Engineering Student at Belgium Campus iTversity <br/>
+🌱 Passionate about Software Development, Cyber Security and Web Development <br/>
+💼 Seeking internship/graduate opportunities in software development <br/>
 
-🚀 Skills
+🚀 Skills<br/>
 
-     Programming: HTML, CSS, JavaScript, C#, Delphi, SQL, SQL Server
-     Tools: Git, Power BI, SQL Server Management Studio
+     Programming: HTML, CSS, JavaScript, C#, Delphi, SQL, SQL Server<br/>
+     Tools: Git, Power BI, SQL Server Management Studio<br/>
 
 
  📂 Projects
-Freelance Project Tracking ( https://github.com/Amelia-VanDerWalt/Freelance_Project_Tracking )
-Workout Tracker ( https://github.com/Amelia-VanDerWalt/Workout_Tracker )
+Freelance Project Tracking ( https://github.com/Amelia-VanDerWalt/Freelance_Project_Tracking )<br/>
+Workout Tracker ( https://github.com/Amelia-VanDerWalt/Workout_Tracker )<br/>
 
-📄 CV
+📄 CV<br/>
 [Download My CV](https://github.com/Amelia-VanDerWalt/Portfolio)
